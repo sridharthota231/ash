@@ -1,11 +1,7 @@
-import java.util.List;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+// these are not required imports as per the latest updatess
 //commited  // add new addition
 public class BrowserTest {
+
 	
 	public static void main(String[] args) throws InterruptedException {
 		
